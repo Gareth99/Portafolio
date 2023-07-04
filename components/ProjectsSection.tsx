@@ -15,18 +15,18 @@ const projects = [
   },
   {
     name: "OpenBis",
-    description: "openbis is an application that creates electronic invoices and these invoices are issued to the Sat to declare taxes",
+    description: "OpenBis is an application that creates electronic invoices and these invoices are issued to the Sat to declare taxes.",
     image: "/openbis.jpg",
     github: "https://github.com/Gareth99/Sys-facturacion",
     link: "https://openbis.com.mx/inicio",
   },
   {
-    name: "Youtube-Clone",
+    name: "Inventory System",
     description:
-      "youtube-clone is a replica of the youtube application in which we can watch videos and search for topics related to what was added to the application",
-    image: "/youtube-clone.jpg",
-    github: "https://github.com/Gareth99/Projects",
-    link: "https://youtube-rest.netlify.app/",
+      "This inventory system was developed for a department store so that it could record all its products, its inputs and outputs and also be able to add the users who have purchased the products that the department store has.",
+    image: "/inven.png",
+    github: "https://github.com/Gareth99/Project-Ecommerce",
+    link: "https://github.com/Gareth99/Project-Ecommerce",
   },
 ]
 

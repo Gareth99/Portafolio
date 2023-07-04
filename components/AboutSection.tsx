@@ -7,13 +7,19 @@ const skills = [
   { skill: "JavaScript" },
   { skill: "TypeScript" },
   { skill: "PHP" },
-  { skill: "React" },
-  { skill: "Next.js" },
+  { skill: "ReactJS" },
+  { skill: "Next.JS" },
   { skill: "Tailwind CSS" },
   { skill: "MongoDB" },
   { skill: "GitHub" },
   { skill: "MySQL" },
   { skill: "Java" },
+  { skill: "Google Cloud" },
+  { skill: "Laravel"},
+  { skill: "Codelgniter PHP"},
+  { skill: "Microsoft SQL Server"},
+  { skill: "PostMan"},
+  { skill: "StarUML"}
 ]
 
 const AboutSection = () => {
@@ -28,24 +34,24 @@ const AboutSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
-              Get to know me!
+              Get To Know Me!
             </h1>
             <p>
-              Hi, my name is Gareth García Montoya and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Misantla, Ver, México.
+              Hi, My name is Gareth García Montoya and I am a{" "}
+              <span className="font-bold">{"Highly Ambitious"}</span>,
+              <span className="font-bold">{" Self-Motivated"}</span>, and
+              <span className="font-bold">{" Driven"}</span> Software Engineer
+              Based in Misantla, Ver, México.
             </p>
             <br />
             <p>
-              I graduated from Misantla university ITSM in 2023
-              with a BS in Information and communication technology Engineering and have been working in the
+              I graduated from Misantla University ITSM in 2023
+              with a BS in Information and Communication Technology Engineering and have been working in the
               field ever since.
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
+              I have a wide range of Hobbies and Passions that keep me busy.
               From reading, playing sports, traveling, to making YouTube videos,
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
